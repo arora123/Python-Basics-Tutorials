@@ -1,6 +1,7 @@
 # Python-Basics-Tutorials  👇 
 
-This Playlist is in support of my YouTube playlist Python Basics [https://youtube.com/playlist?list=PLfZXabiF_17rjR9OMq1jD2zyWVsOOExy0]
+This Playlist is in support of my YouTube playlist Python Basics [Programming Concepts for Python _not specific to data science]
+[https://youtube.com/playlist?list=PLfZXabiF_17rjR9OMq1jD2zyWVsOOExy0]
 
 In my blog posts on tumblr http://learnerworld.tumblr.com/], I had talked about steps to learn Python.
 First two posts on the topic are 
